@@ -6,7 +6,7 @@ namespace Day_37_Json_Server
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Employee Management Rest Sharp!");
         }
     }
 }
