@@ -39,6 +39,26 @@
       "id": 8,
       "name": "Clark",
       "salary": "15000"
+    },
+    {
+      "id": 9,
+      "name": "Vinaya",
+      "salary": "15000"
+    },
+    {
+      "id": 10,
+      "name": "Ajaya kumar",
+      "salary": "7000"
+    },
+    {
+      "id": 11,
+      "name": "Powan",
+      "salary": "9000"
+    },
+    {
+      "id": 12,
+      "name": "Swathi",
+      "salary": "12000"
     }
   ]
 }
