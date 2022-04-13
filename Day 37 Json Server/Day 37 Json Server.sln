@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 37 Json Server", "Day 37 Json Server\Day 37 Json Server.csproj", "{F93067AE-ABC7-4529-B53A-98F852B20F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpTEst", "RestSharpTEst\RestSharpTEst.csproj", "{21B8432A-0CBB-4354-816D-ADE41C02D171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93067AE-ABC7-4529-B53A-98F852B20F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93067AE-ABC7-4529-B53A-98F852B20F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93067AE-ABC7-4529-B53A-98F852B20F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93067AE-ABC7-4529-B53A-98F852B20F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B8432A-0CBB-4354-816D-ADE41C02D171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B8432A-0CBB-4354-816D-ADE41C02D171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B8432A-0CBB-4354-816D-ADE41C02D171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B8432A-0CBB-4354-816D-ADE41C02D171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A388C896-15D0-402C-81A0-62A4FBC26CD0}
+	EndGlobalSection
+EndGlobal
